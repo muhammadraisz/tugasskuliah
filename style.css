@@ -1,8 +1,8 @@
 /*css header*/
 .header{
  background: blue;
- height: 100px;
+ height: 100px; 
+ padding: 2px 10px;
  color: white;
  text-align: center;
- padding: 2px 10px;
 }
