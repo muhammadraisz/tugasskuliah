@@ -1,6 +1,7 @@
 /*css header*/
 .header{
  background: blue;
+ height: 100px;
  color: white;
  text-align: center;
 }
