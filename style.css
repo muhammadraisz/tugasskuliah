@@ -1,7 +1,9 @@
 /*css header*/
 .header{
- height: 30px:
+ min-height: 30px:
  background: blue;
  color: white;
  text-align: center;
 }
+
+
